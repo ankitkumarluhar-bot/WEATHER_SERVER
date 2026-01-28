@@ -1,0 +1,11 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id,temperature,humidity,condition,city_api_name,temp_category,pop_bucket
+tokyo,Tokyo,35.687,139.7495,Japan,JP,JPN,Tōkyō,primary,37785000.0,1392685764,7.14,34,Clouds,Japan,Cold,Megacity
+jakarta,Jakarta,-6.175,106.8275,Indonesia,ID,IDN,Jakarta,primary,33756000.0,1360771077,28.51,74,Clouds,Pecenongan,Hot,Megacity
+delhi,Delhi,28.61,77.23,India,IN,IND,Delhi,admin,32226000.0,1356872604,16.09,82,Mist,New Delhi,Moderate,Megacity
+guangzhou,Guangzhou,23.13,113.26,China,CN,CHN,Guangdong,admin,26940000.0,1156237133,21.92,46,Clear,Guangzhou,Moderate,Megacity
+mumbai,Mumbai,19.0761,72.8775,India,IN,IND,Mahārāshtra,admin,24973000.0,1356226629,28.15,46,Smoke,Konkan Division,Hot,Megacity
+manila,Manila,14.5958,120.9772,Philippines,PH,PHL,Manila,primary,24922000.0,1608618140,28.33,65,Clouds,Santa Cruz,Hot,Megacity
+shanghai,Shanghai,31.2286,121.4747,China,CN,CHN,Shanghai,admin,24073000.0,1156073548,7.88,49,Clear,Shanghai Municipality,Cold,Megacity
+são paulo,Sao Paulo,-23.5504,-46.6339,Brazil,BR,BRA,São Paulo,admin,23086000.0,1076532519,17.88,92,Clouds,Liberdade,Moderate,Megacity
+seoul,Seoul,37.5667,126.9833,"Korea, South",KR,KOR,Seoul,primary,23016000.0,1410836482,-4.23,36,Clear,Seoul,Cold,Megacity
+mexico city,Mexico City,19.4333,-99.1333,Mexico,MX,MEX,Ciudad de México,primary,21804000.0,1484247881,13.83,50,Clear,Mexico City,Moderate,Megacity
